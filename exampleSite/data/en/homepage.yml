@@ -32,10 +32,9 @@ features:
     icon: tf-ion-ios-cart-outline
     content: 1920 x 1080
   right_side:
-  - title: Smooth Touch
+  - title: GPU
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: NVIDIA GeForce GTX G1650 Max-Q with 4 GB GDDR5 VRAM
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
