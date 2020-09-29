@@ -1,11 +1,17 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  title: MSI 15.6" GF63 Thin Gaming Laptop
+  content: The MSI 15.6" GF63 Thin Gaming Laptop is designed for gamers who favor
+    portability slightly more so than performance. Specs-wise, it's equipped with
+    a 2.4 GHz Intel Core i5-9300H quad-core processor, 8GB of DDR4 memory, a 256GB
+    NVMe PCIe M.2 SSD, and an NVIDIA GeForce GTX 1650 Max-Q graphics card. Thanks
+    to its dedicated graphics card, you'll be able to enable additional graphical
+    options and turn up in-game visual settings to enjoy games at their best. Should
+    you need more storage, you can connect external storage solutions using its multiple
+    USB ports. Other integrated features include an HDMI output, 802.11ac Wi-Fi, Bluetooth
+    5.0, a backlit keyboard, a webcam, microphones, speakers, and audio jacks. The
+    operating system installed is Windows 10 Home.
   image: images/1.jpg
   button:
     enable: true
