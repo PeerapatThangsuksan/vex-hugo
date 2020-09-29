@@ -28,10 +28,9 @@ features:
   - title: Size
     icon: tf-ion-ios-bell-outline
     content: 15.6"
-  - title: Easy Pricing
+  - title: Resolution
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 1920 x 1080
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
